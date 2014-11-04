@@ -1,0 +1,3 @@
+.chef/local-mode-cache
+.chef/keys
+src/simplehttpserver/target
